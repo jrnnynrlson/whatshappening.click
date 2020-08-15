@@ -1,7 +1,3 @@
-# 
-whatshappening.click, 
-
-
 # [whatshappening.click](http://whatshappening.click)
 a 5-minute meditation recorded made with [Quickbooks](http://quick-books.biz)
 <br />
